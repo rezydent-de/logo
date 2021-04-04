@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: TrashHand
+font link: https://www.fontsquirrel.com/fonts/TrashHand
+font author: Luce Avérous
+font author site: http://www.luce.averous.com/
+
+
+icon designer: Dmitry  Kudinov
+icon designer link: /dmitry.kudinov.35
+        
+
+fontColor: {"gradient-0":"#0F0F0F","gradient-1":"#FF1010"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#0F0F0F","gradient-1":"#FF1010"}
+
+      
